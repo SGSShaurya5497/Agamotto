@@ -70,4 +70,4 @@ const BoundingBoxDrawer = ({ imageUrl, boxes }) => {
   return <canvas ref={canvasRef} style={{ maxWidth: '100%', height: 'auto' }} />;
 };
 
-export default BoundingBoxDrawer;
+export default BoundingBoxDrawer;// update

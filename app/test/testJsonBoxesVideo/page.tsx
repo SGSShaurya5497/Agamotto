@@ -24,4 +24,4 @@ export default function ImageWithBoundingBoxes() {
         </div>
       </main>
     );
-  }
+  }// update

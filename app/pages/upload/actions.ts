@@ -126,4 +126,6 @@ Return a JSON object in this exact format:
         console.error('Error in detectEvents:', error);
         throw error;
     }
-}
+}// update
+
+// update

@@ -67,3 +67,4 @@ export function BoundingBoxesOverlay({
     </div>
   )
 }
+// update

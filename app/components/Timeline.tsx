@@ -122,3 +122,4 @@ export function Timeline({ events, totalDuration, currentTime = 0 }: TimelinePro
     </>
   );
 }
+// update
